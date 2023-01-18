@@ -27,5 +27,7 @@ The following image shows the web application's appearance and functionality:
       * Special characters ($@%&*, etc)
   * Code should validate for each input and at least one character type should be selected
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
-
+  
+  Link to project: https://pinkrobocop.github.io/M5C/
+  
 For more information, email Pinkrobocop@aol.com

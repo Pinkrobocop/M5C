@@ -1,5 +1,7 @@
 # Project: Password Generator
 
+Link to project: https://pinkrobocop.github.io/M5C/
+
 ## Overview
  
 I created an application that an employee can use to generate a random password based on criteria they’ve selected. 
@@ -28,6 +30,6 @@ The following image shows the web application's appearance and functionality:
   * Code should validate for each input and at least one character type should be selected
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
   
-  Link to project: https://pinkrobocop.github.io/M5C/
+  
   
 For more information, email Pinkrobocop@aol.com

@@ -2,6 +2,10 @@
 
 Link to project: https://pinkrobocop.github.io/M5C/
 
+<p align="center">
+  <img src="https://github.com/Pinkrobocop/M5C/blob/master/05-javascript-challenge-demo.png?raw=true" width="350" title="Password generator image for project" 
+</p>
+
 ## Overview
  
 I created an application that an employee can use to generate a random password based on criteria they’ve selected. 
